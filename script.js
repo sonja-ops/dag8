@@ -18,9 +18,9 @@ const isPresent = true
 console.log("ER tilstedet", isPresent);
 console.log(typeof isPresent);
 
+// Two const variable saving strings
+// On const variable savingthe data from dhe two first variables
 const firstName = "Sonja";
-
 const lastName = "Stefanovic";
-
 const fullname = firstName + " " + lastName;
-console.log(fullname);
+console.log("fullnamevariable viser:",fullname);
